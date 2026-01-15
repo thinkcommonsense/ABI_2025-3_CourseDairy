@@ -3,3 +3,11 @@ Notes about Git
 We have local and remote repositories.
 A repository consists of working direcotry, staging directory and the repository.
 I did a test change
+
+git status
+shwos changes to the working directory and the state of the staging area
+
+git add
+add changes to a file to the staging area
+
+
