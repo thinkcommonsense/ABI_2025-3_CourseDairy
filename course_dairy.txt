@@ -1,0 +1,4 @@
+
+Notes about Git
+We have local and remote repositories.
+A repository consists of working direcotry, staging directory and the repository.
