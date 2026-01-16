@@ -12,3 +12,22 @@ add changes to a file to the staging area
 
 
 sdf
+
+Network Graph
+
+                Head
+                I
+                Master
+                I
+98ca9           34ac2
+
+
+
+                Head
+                I
+                Master
+                I
+89as7           98ca9           34ac2
+
+
+
