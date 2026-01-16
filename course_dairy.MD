@@ -29,7 +29,6 @@ Network Graph
                 I
 89as7           98ca9           34ac2
 
-## Concepts
 ## Commits
 A commit is a bundled up set of changes.
 It is a uniquely identified by a [hash](https://wikipedia.org/wiki/Hash_function)
