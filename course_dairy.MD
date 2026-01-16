@@ -45,4 +45,6 @@ It is a uniquely identified by a [hash](https://wikipedia.org/wiki/Hash_function
 - `git push` -- synchronize changes[^changes] **to** the remote
 - `git pull` -- synchronize change[^changes] **from** the remote
 - `git restore` -- restore the work directory or staging area
+- `git fetch` -- which changes are done and list?
+- `git checkout` --
 
